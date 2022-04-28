@@ -8,7 +8,7 @@ When I'm not filling in my GitHub tile I'm usually out skiing somewhere ⛷
 
 ![image](https://user-images.githubusercontent.com/8812459/165805549-ef9a9a3c-bf8a-4b67-b954-1b27a5bd1356.png)
 
--- 📸 I call this one *"I think I look cooler with a rope."* Taken on Mount Shuksan.
+-- 📸 I call this one *"I think I look cooler with a rope."* Taken in the North Cascades.
 
 <br>
 
