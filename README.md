@@ -10,6 +10,8 @@ When I'm not filling in my GitHub tile I'm usually out skiing somewhere ⛷
 
 -- 📸 I call this one *"I think I look cooler with a rope."* Taken on Mount Shuksan.
 
+<br>
+
 ![image](https://user-images.githubusercontent.com/8812459/165806072-cb407c2a-711b-4781-a952-245578c975d4.png)
 
 -- 📸 *"Another 'candid' shot,"* somewhere in Snoqualmie Pass.
