@@ -2,6 +2,12 @@
 
 I'm an ML engineer who loves building open-source tools that make reproducible research easier. I program mostly in Python, although I dream of a better world where we all agree to just use Rust 😜
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epwalsh&langs_count=2&hide=tex,jupyter%20notebook)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=epwalsh&count_private=true&show_icons=true&theme=default)
+
+<br>
+
 When I'm not filling in my GitHub tile I'm usually out skiing somewhere ⛷
 
 <br>
