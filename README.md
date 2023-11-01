@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm an ML engineer who loves building open-source tools that make reproducible research easier. I program mostly in Python, although I dream of a better world where we all agree to just use Rust 😜
+I'm an ML engineer who loves building open-source tools, especially for research. I program mostly in Python, although I dream of a better world where we all agree to just use Rust 😜
 
 <br>
 
